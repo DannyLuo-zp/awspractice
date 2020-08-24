@@ -1,3 +1,7 @@
+this is code from video https://www.youtube.com/watch?reload=9&v=JgwI22y_eFA by freeCodeCamp.org.
+
+original README below
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
